@@ -27,6 +27,7 @@ If you have already installed all required libraries, you can build the program 
 
 This is a university cryptography project for which we consulted a number of sources. We successfully tested it, but we are not responsible for any bugs.
 
+This program is developed according to the idea presented in the attached .pdf report file. You can view it if you want. The report file is written in Vietnamese.
   
 ## References
 
